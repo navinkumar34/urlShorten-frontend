@@ -1,0 +1,111 @@
+.App {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.loginDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  padding: 5px;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  background: #cac531; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f3f9a7,
+    #cac531
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f3f9a7,
+    #cac531
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.registerDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  padding: 5px;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  background: #2193b0; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.fpassDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  padding: 5px;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  background: #005aa7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fffde4,
+    #005aa7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fffde4,
+    #005aa7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.resetpassDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  padding: 5px;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  background: #bbd2c5; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #536976,
+    #bbd2c5
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #536976,
+    #bbd2c5
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.shortDiv {
+  margin-top: 50px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.activateDiv {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 30px;
+  padding: 5px;
+  border: solid whitesmoke;
+  border-radius: 5px;
+  justify-content: center;
+  background: #2193b0; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #6dd5ed,
+    #2193b0
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
